@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2015-04-22T14:36:02Z"/>
+
+  <bounds minlat="52.2517" minlon="10.5037" maxlat="52.2772" maxlon="10.5471"/>
+  
+  <node id="21402303" lat="52.2752762" lon="10.5257788" version="8" timestamp="2012-06-21T22:19:17Z" changeset="11973705" uid="31917" user="soylentgreen">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="21402306" lat="52.2751120" lon="10.5221818" version="18" timestamp="2012-06-21T22:19:17Z" changeset="11973705" uid="31917" user="soylentgreen">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="21402307" lat="52.2750912" lon="10.5213630" version="17" timestamp="2014-12-25T01:36:52Z" changeset="27682406" uid="1719211" user="poschon">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="surveillance" v="public"/>
+  </node>
+  
+</osm>
