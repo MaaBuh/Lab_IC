@@ -1,0 +1,3 @@
+//Deploy ausführen um pw zu ändern
+
+ALTER USER postgres WITH PASSWORD 'sommer15';

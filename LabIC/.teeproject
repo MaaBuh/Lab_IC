@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Default Connection</comment>
+<entry key="uuid">d66b067d-e51f-43bf-a594-f9f1f1d0b936</entry>
+<entry key="useCustomConnectionString">false</entry>
+<entry key="port">5432</entry>
+<entry key="color">123 123 123</entry>
+<entry key="autoCommit">true</entry>
+<entry key="toadext.dbPlatform">POSTGRESQL</entry>
+<entry key="sshEnabled">false</entry>
+<entry key="adapterId">POSTGRESQL</entry>
+<entry key="customJdbcConnectString">jdbc:postgresql://localhost:5432/postgres</entry>
+<entry key="userName">postgres</entry>
+<entry key="displayName">postgres@localhost/postgres</entry>
+<entry key="last_connected">1430103927169</entry>
+<entry key="sslEnabled">false</entry>
+<entry key="restore_state">true</entry>
+<entry key="host">localhost</entry>
+<entry key="db">postgres</entry>
+</properties>
