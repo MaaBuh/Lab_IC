@@ -1,3 +1,4 @@
+package de.tubs.labic.db;
 
 import java.sql.*;
 
@@ -6,7 +7,7 @@ import org.postgresql.geometric.PGpoint;
 
 
 // - Treiber fuer postgresql geladen 
-// - Verbindung zur Datenbank ’test’ auf PostgreSQL auf Server localhost und    
+// - Verbindung zur Datenbank ï¿½testï¿½ auf PostgreSQL auf Server localhost und    
 //   Port 5432 aufgebaut 
 public class PostgreFunctions {
 
